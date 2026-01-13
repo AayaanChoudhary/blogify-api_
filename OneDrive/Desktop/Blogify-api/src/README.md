@@ -1,1 +1,1 @@
-# Project Name-Blogify API
+# Blogify API
